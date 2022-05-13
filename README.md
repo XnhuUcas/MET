@@ -5,10 +5,10 @@ Model-embedded Trend Test
 1.0.0
 
 # Description
-A new robust test of single-marker analysis that incorporating Hardy-Weinberg equilibrium information.
+A new robust test for the single-marker analysis incorporating Hardy-Weinberg equilibrium information.
 
 # Author
-Xiaonan Hu, Xiaogang Duan, Dongdong Pan, Sanguo Zhang, Shuangge Ma and Qizhai Li
+Xiaonan Hu, Xiaogang Duan, Dongdong Pan, Sanguo Zhang and Qizhai Li
 
 # Maintainer
 Xiaonan Hu (xnhu@amss.ac.cn)
